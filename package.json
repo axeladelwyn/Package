@@ -1,6 +1,6 @@
 {
 	"author": "Boris",
-	"description": "Project that does something awesome",
+	"description": "this is me",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
